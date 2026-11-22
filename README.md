@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Ayham Al-Ghazawi" width="100%"/>
+<img src="https://raw.githubusercontent.com/itsghazawi/itsghazawi/main/banner.svg" alt="Ayham Al-Ghazawi" width="100%"/>
 
 <h3>مصمم غرافيك ومطوّر ويب وتطبيقات</h3>
 
