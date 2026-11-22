@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,100:2563eb&text=Ayham%20Al-Ghazawi&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Designer%20%C2%B7%20Web%20%26%20App%20Developer&descAlignY=60&descSize=17" alt="Ayham Al-Ghazawi" width="100%"/>
+<img src="banner.svg" alt="Ayham Al-Ghazawi" width="100%"/>
 
-<h3>أيهم الغزاوي &nbsp;|&nbsp; مصمم غرافيك ومطوّر ويب وتطبيقات</h3>
+<h3>مصمم غرافيك ومطوّر ويب وتطبيقات</h3>
 
 <p>
 <a href="https://alghazawi.me"><img src="https://img.shields.io/badge/Portfolio-alghazawi.me-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -57,12 +57,5 @@
 - [**coofix-builds**](https://github.com/itsghazawi/coofix-builds) — public build artifacts
 
 <div align="center">
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsghazawi&show_icons=true&hide_border=true&bg_color=0f172a&title_color=60a5fa&icon_color=2563eb&text_color=e2e8f0&count_private=true" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsghazawi&hide_border=true&background=0f172a&ring=2563eb&fire=2563eb&currStreakLabel=e2e8f0&sideLabels=e2e8f0&currStreakNum=60a5fa&sideNums=60a5fa&dates=94a3b8" height="150"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:2563eb,100:0f172a" width="100%"/>
 
 </div>
